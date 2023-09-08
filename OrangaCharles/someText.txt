@@ -1,0 +1,4 @@
+I would have writen something from terminal using the nano command,
+but there's no one to show off to.
+Si I will just use the GUI and pretend I used the terminal.
+Bye!
