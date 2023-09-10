@@ -1,0 +1,4 @@
+This is assignment one in my Devops04 class.
+I created a new folder with my github username.
+I have created a file inside the folder.
+I added texts in the file.
