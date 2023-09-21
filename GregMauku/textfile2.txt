@@ -1,0 +1,11 @@
+ new file to
+ensure i dont fork
+means
+i have to have been granted 
+collaborator access into the project/repo
+settings>>collaborators>search username >>click on the result,
+add as a contributor
+now ou can work on the repo without forking,
+by creating a new branch on the project/repo
+etc
+blah blah blah
